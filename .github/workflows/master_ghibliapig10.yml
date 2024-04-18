@@ -68,4 +68,8 @@ jobs:
           app-name: 'GhibliApiG10'
           slot-name: 'Production'
           package: .
+          app_location: "/"
+          api_location: ""
+          output_location: "public"
+          
           
